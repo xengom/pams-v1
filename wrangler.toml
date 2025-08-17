@@ -1,0 +1,7 @@
+[env.production]
+compatibility_date = "2023-11-21"
+
+[[env.production.d1_databases]]
+binding = "DB"
+database_name = "pams-d1"
+database_id = "94ae9517-be8e-4692-ab2d-31f5dccd7de5"
